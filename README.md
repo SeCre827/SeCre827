@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 
 ---
 
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Secre827&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/Secre827?tab=repositories) | [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secre827&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook)](https://github.com/Secre827?tab=repositories) |
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Secre827&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/Secre827?tab=repositories) | [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secre827&theme=highcontrast&langs_count=3&hide=ejs,jupyter%20notebook)](https://github.com/Secre827?tab=repositories) |
 |:-:|:-:|
 
-<p align="center">
-	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Secre827&color=yellow&style=flat&label=visitors" />
-	<img alt="Followers" src="https://img.shields.io/github/followers/Secre827?color=yellow" />
-	<img alt="Stars" src="https://img.shields.io/github/stars/Secre827?color=yellow" />
-</p>
+
 
 ---
